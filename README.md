@@ -2,8 +2,8 @@ Olá, eu sou a Isabel Cristina Martins
 <h1>Welcome!</h1>
 
 <h2> Sobre </h2>
-Formada em Fisioterapia, com Doutorado na área sou apaixonada por estudar assuntos novos que tragam desafios e evolução profissional. Encantei-me com a programação back-end e partir para essa nova jornada, numA transição de carreira. Espero poder compartinhar e aprender com a comunidade Dev. Estudante da Alura e graduanda em Análise e Desenvolvimento de Sistemas (Universidade Cândido Mendes). 
-Conhecimentos prévios em: Java Script, HTML e CSS. 
+Graduanda em Análise e Desenvolvimento de Sistemas (Universidade Cândido Mendes), estudante da Alura e estagiária do Laboratório de Inteligência Artificial (LIA) - IFCe
+Conhecimentos prévios em: Java Script, HTML, CSS, Python.   
 <br> </br>
 
 
