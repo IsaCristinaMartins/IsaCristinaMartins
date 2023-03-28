@@ -2,7 +2,11 @@ Olá, eu sou a Isabel Cristina Martins
 <h1>Welcome!</h1>
 
 <h2> Sobre </h2>
-Graduanda em Análise e Desenvolvimento de Sistemas (Universidade Cândido Mendes), estudante da Alura e membro do Laboratório de Inteligência Artificial (LIA) - IFCe. 
+
+  </> Graduanda em Análise e Desenvolvimento de Sistemas (Universidade Cândido Mendes)
+  </> Estudante da Alura 
+  </> Membro do Laboratório de Inteligência Artificial (LIA) - IFCe. ~ Back end ~
+
 Conhecimentos prévios em: Java Script, HTML, CSS, Python.   
 <br> </br>
 
