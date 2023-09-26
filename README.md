@@ -1,13 +1,26 @@
-Olá, eu sou a Isabel Cristina Martins
 <h1>Welcome!</h1>
 
 <h2> Sobre </h2>
 
-  </> Graduanda em Análise e Desenvolvimento de Sistemas (Universidade Cândido Mendes)
-  </> Estudante da Alura 
-  </> Membro do Laboratório de Inteligência Artificial (LIA) - IFCe. ~ Back end ~
+👋 Olá, sou a Isabel Cristina Martins, uma desenvolvedora apaixonada por tecnologia e estudante de Análise e Desenvolvimento de Sistemas, concluirei minha graduação em dezembro de 2024.
 
-Conhecimentos prévios em: Java Script, HTML, CSS, Python.   
+<h2>💻 Linguagens e Tecnologias:</h2>
+
+  🐍 Python: Minha principal linguagem de programação, que adoro usar para criar soluções eficientes e elegantes.
+  🌐 JavaScript: Trabalho com JavaScript para desenvolver aplicativos web interativos e dinâmicos.
+
+<h2>🧠 Aqui estão algumas das minhas soft skills:</h2>
+
+  🚀 Pró-atividade: Sou uma pessoa que gosta de assumir a liderança, identificar oportunidades de melhoria e agir proativamente para alcançar metas.
+
+  🧘 Inteligência Emocional: Reconheço a importância do equilíbrio emocional no ambiente de trabalho. Isso me ajuda a lidar com desafios, a trabalhar bem em equipe e a manter a calma sob pressão.
+
+  📚 Aprendizagem Rápida: Estou sempre empolgada em aprender coisas novas. Tenho a capacidade de absorver conhecimento rapidamente e aplicá-lo de forma eficaz em projetos.
+
+Estou constantemente expandindo meu conjunto de habilidades e buscando oportunidades para contribuir para projetos interessantes.
+Vamos trabalhar juntos para criar soluções incríveis!
+
+
 <br> </br>
 
 
