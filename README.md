@@ -7,6 +7,7 @@
 <h2>💻 Linguagens e Tecnologias:</h2>
 
   🐍 Python: Minha principal linguagem de programação, que adoro usar para criar soluções eficientes e elegantes.
+  
   🌐 JavaScript: Trabalho com JavaScript para desenvolver aplicativos web interativos e dinâmicos.
 
 <h2>🧠 Aqui estão algumas das minhas soft skills:</h2>
