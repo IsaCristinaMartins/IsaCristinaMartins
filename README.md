@@ -2,24 +2,14 @@
 
 <h2> Sobre </h2>
 
-👋 Olá, sou a Isabel Cristina Martins, uma desenvolvedora apaixonada por tecnologia e estudante de Análise e Desenvolvimento de Sistemas, concluirei minha graduação em dezembro de 2024.
+👋 E aí, pessoal! Beleza? Sou a Isabel Cristina Martins e se você está dando uma olhada no meu GitHub, é porque está procurando saber um pouco mais sobre mim, certo? Então, aqui vai!🤞🤞
+Sou apaixonada por tecnologia e tudo que envolve criar e resolver problemas. Sempre fui aquele tipo de pessoa que fica curiosa para entender como as coisas funcionam por trás das telas. E sabe o que mais?🤔 Adoro desafios! Afinal, é isso que nos faz crescer, não é mesmo?
+Então, sobre minhas habilidades... Bem, sou daquelas que não espera as coisas caírem do céu. Sou proativa e se tem um problema, estaremos juntos pra resolver! E sabe aquela habilidade de pensar fora da caixa? Então, eu tenho uma dose generosa disso! Gosto de encontrar soluções criativas, daquelas que fazem a diferença de verdade.
+Ah, e falar em fazer a diferença, trabalho em equipe é comigo mesmo. Acredito que juntos somos mais fortes, sabe? E comunicação é tudo! Sou boa de papo e tenho uma facilidade em explicar coisas complicadas de um jeito que todo mundo entende.
+E sabe o que é mais legal? Nunca paro de aprender. Tem sempre uma tecnologia nova no horizonte e eu tô sempre de olho nisso. Afinal, o mundo da tecnologia é cheio de surpresas, e eu adoro uma boa surpresa!
+Então, se você tá aí procurando alguém que seja apaixonada por tecnologia, que encara os desafios de frente e tá sempre pronto(a) pra aprender mais, bora trocar uma ideia! 
 
-<h2>💻 Linguagens e Tecnologias:</h2>
-
-  🐍 Python: Minha principal linguagem de programação, que adoro usar para criar soluções eficientes e elegantes.
-  
-  🌐 JavaScript: Trabalho com JavaScript para desenvolver aplicativos web interativos e dinâmicos.
-
-<h2>🧠 Aqui estão algumas das minhas soft skills:</h2>
-
-  🚀 Pró-atividade: Sou uma pessoa que gosta de assumir a liderança, identificar oportunidades de melhoria e agir proativamente para alcançar metas.
-
-  🧘 Inteligência Emocional: Reconheço a importância do equilíbrio emocional no ambiente de trabalho. Isso me ajuda a lidar com desafios, a trabalhar bem em equipe e a manter a calma sob pressão.
-
-  📚 Aprendizagem Rápida: Estou sempre empolgada em aprender coisas novas. Tenho a capacidade de absorver conhecimento rapidamente e aplicá-lo de forma eficaz em projetos.
-
-Estou constantemente expandindo meu conjunto de habilidades e buscando oportunidades para contribuir para projetos interessantes.
-Vamos trabalhar juntos para criar soluções incríveis!
+Vamos fazer coisas incríveis juntos(as)!
 
 
 <br> </br>
@@ -29,11 +19,11 @@ Vamos trabalhar juntos para criar soluções incríveis!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaCristinaMartins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaCristinaMartins&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #Meus contatos
 
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  - martins.icmt@gmail.com
-
+<br> </br>
+Linkedin 👋👋 https://www.linkedin.com/in/isabel-cristina-martins-6a8029114/ 
