@@ -2,7 +2,8 @@
 
 <h2> Sobre Isabel Cristina Martins </h2>
 
-👋 Sou uma profissional dedicada com um background na área de saúde [Fisioterapeuta (UniChristus/11) e Drª. Fisiologia (UECE/20)], que se reinventou ao mergulhar no mundo da tecnologia. Atualmente, atuo como especialista em Data Science & Analytics [Bootcamp Data Analytics - Womakerscode/24], unindo minha paixão por dados com minha experiência prévia na área da saúde. Minha formação em Análise e Desenvolvimento de Sistemas [UCAM/24], complementada por diversos cursos [Python, Pandas, Numpy, SciPy e Scikit-Learn], reflete minha constante busca por conhecimento. Sou conhecida por minha proatividade, foco e persistência, qualidades que me permitem transformar desafios em oportunidades e alcançar resultados excepcionais. Estou sempre pronta para aprender e contribuir de maneira significativa em todos os projetos que faço parte.
+👋 Cientista de Dados com sólida transição da saúde para a tecnologia, unindo duas áreas com propósito. Possuo formação em Fisioterapia (Bacharelado, Mestrado e Doutorado em Fisiologia) e, posteriormente, em Análise e Desenvolvimento de Sistemas (2024) e especialização em Data Science (2025). Atuo em projetos de Ciência de Dados e Inteligência Artificial, com foco em NLP, LLMs, modelos preditivos e pipelines em Python, além de visualização de dados e automação. Experiência com SQL, Power BI e computação em nuvem (Azure, AWS). Reconhecida pela proatividade, foco e persistência na transformação de dados em soluções reais.
+
 
 Vamos fazer coisas incríveis juntos(as)!
 
